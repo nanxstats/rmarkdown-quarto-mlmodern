@@ -1,7 +1,6 @@
 # Using MLModern with R Markdown and Quarto
 
-Sample documents that demonstrate authoring R Markdown and Quarto PDF documents
-using the MLModern typeface.
+Sample R Markdown and Quarto PDF documents that demonstrate the MLModern typeface.
 
 ## Specimen
 
